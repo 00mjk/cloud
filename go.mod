@@ -30,7 +30,7 @@ require (
 	github.com/pion/dtls/v2 v2.0.3-0.20200804191223-c6dbd482fa3a // indirect
 	github.com/satori/go.uuid v1.2.0
 	github.com/smallstep/certificates v0.13.4-0.20191007194430-e2858e17b094
-	github.com/smallstep/nosql v0.2.0
+	github.com/smallstep/nosql v0.3.2
 	github.com/stretchr/testify v1.6.1
 	github.com/ugorji/go/codec v1.1.7
 	github.com/valyala/fasthttp v1.12.0
