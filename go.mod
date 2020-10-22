@@ -29,8 +29,8 @@ require (
 	github.com/plgd-dev/kit v0.0.0-20201002113054-9f5d47d18a8c
 	github.com/plgd-dev/sdk v0.0.0-20201008144930-a520d56a75b7
 	github.com/satori/go.uuid v1.2.0
-	github.com/smallstep/certificates v0.13.4-0.20191007194430-e2858e17b094
-	github.com/smallstep/nosql v0.2.0
+	github.com/smallstep/certificates v0.15.5
+	github.com/smallstep/nosql v0.3.0
 	github.com/stretchr/testify v1.6.1
 	github.com/ugorji/go/codec v1.1.10
 	github.com/valyala/fasthttp v1.16.0
@@ -40,7 +40,6 @@ require (
 	golang.org/x/oauth2 v0.0.0-20200902213428-5d25da1a8d43
 	golang.org/x/sync v0.0.0-20201008141435-b3e1573b7520
 	google.golang.org/grpc v1.32.0
-	google.golang.org/grpc/examples v0.0.0-20201008225051-06c094c3ab22 // indirect
 	gopkg.in/yaml.v2 v2.2.8
 )
 
